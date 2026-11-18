@@ -1,3 +1,3 @@
 Nome: Ricardo Marcolino - 224073
 Turma: 207
-URL: 
+URL: https://netlifyappric.netlify.app/
